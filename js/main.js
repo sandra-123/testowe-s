@@ -2,7 +2,9 @@ $(function () {
     var patientsList = [
         { firstName: "Adam", lastName: "Nowak" },
         { firstName: "Andrzej", lastName: "Kielcz" },
-        { firstName: "Stanisław", lastName: "Kielcz" }
+        { firstName: "Stanisław", lastName: "Kielcz" },
+        { firstName: "Piotr", lastName: "Gierczak" },
+        { firstName: "Irena", lastName: "Listkiewicz" }
 
     ];
 
